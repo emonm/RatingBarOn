@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RatingBarOn</string>
+    <string name="hello">Hello World, InteractiveRatingBarActivity!</string>
+</resources>
